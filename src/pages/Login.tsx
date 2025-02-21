@@ -39,7 +39,7 @@ const Login = ({ toggleDashboard }: { toggleDashboard: () => void }) => {
                                 type="text"
                             />
                             <label htmlFor="passwordInput" className="text-sm mb-1.5">
-                                Usuario
+                                Contraseña
                             </label>
                             <input
                                 className="outline-none border mb-10 focus:border-[#00F1C7] hover:border-[#00F1C7] w-[380px] h-10 border-[#D9D9D9] rounded-lg"
